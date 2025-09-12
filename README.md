@@ -12,7 +12,7 @@
 
 | **기술분류**         | **보유기술** |
 |----------------------|-------------|
-| **프로그래밍 언어**   | - **Java**: 객체지향 프로그래밍, Android 앱 및 Spring Boot 기반 웹 서비스 개발  <br> - **Kotlin**: Android 앱 기능 개발 및 FCM Push 메시지 시스템 구현  <br> - **JavaScript(ES6+)**: 웹 클라이언트 로직, 이벤트 처리, Ajax 통신, jQuery 활용  <br> - **C, C++**: 학부 시절 자료구조·알고리즘 및 시스템 프로그래밍 실습  <br> - **Python(기초)**: 데이터 처리, 간단한 자동화 스크립트 작성 경험  <br> - **SQL**: Oracle, MySQL 환경에서 데이터 정의·조작, 복잡한 쿼리 작성, PL/SQL 프로시저 및 트리거 활용 |
+| **프로그래밍 언어**   | - **Java**: 객체지향 프로그래밍, Android 앱 및 Spring Boot 기반 웹 서비스 개발  <br> - **Kotlin**: Android 앱 기능 개발 및 FCM Push 메시지 시스템 구현  <br> - **JavaScript**: 웹 클라이언트 로직, 이벤트 처리, Ajax 통신, jQuery 활용  <br> - **C, C++**: 학부 시절 자료구조·알고리즘 및 시스템 프로그래밍 실습  <br> - **Python**: 데이터 처리, 간단한 자동화 스크립트 작성 경험  <br> - **SQL**: Oracle, MySQL 환경에서 데이터 정의·조작, 복잡한 쿼리 작성, PL/SQL 프로시저 및 트리거 활용 |
 | **웹 백엔드 & 서버 개발** | - **Spring / Spring Boot**: REST API 설계 및 구현, MyBatis 연동, Thymeleaf 기반 MVC 패턴 적용  <br> - **JSP/Servlet**: 세션 관리, 로그인·회원가입 기능 구현 경험  <br> - **MyBatis**: DAO 매퍼 설계, 동적 SQL, 다중 조인 처리  <br> - **REST API**: JSON 기반 데이터 송수신 및 클라이언트-서버 간 통신 구조 설계  <br> - **Node.js**: JavaScript 런타임 환경, 비동기 서버 통신 실습 경험 |
 | **프론트엔드 개발**   | - **HTML5 / CSS3**: 시맨틱 마크업, 반응형 레이아웃, 커스텀 스타일링  <br> - **JavaScript / jQuery / Ajax**: DOM 조작, 비동기 통신, 사용자 이벤트 처리  <br> - **Thymeleaf**: 서버사이드 렌더링, 동적 데이터 바인딩  <br> - **Chart.js**: 소비·저축 데이터 시각화, 관리자 통계 대시보드 구현  <br> - **WebSocket**: 실시간 데이터 갱신 실습 |
 | **데이터베이스**      | - **Oracle**: 사용자·가계부·거래 내역 DB 구축, 시퀀스/트리거 설계, 다중 테이블 조인  <br> - **MySQL**: 학원 프로젝트에서 서비스 DB 설계 및 운영  <br> - **JDBC**: Java 애플리케이션과 DB 연동, Connection Pool 활용  <br> - **SQL Developer**: DB 모델링 및 쿼리 실행 환경 활용  <br> - **PL/SQL**: 저장 프로시저, 사용자 정의 함수, 트리거 작성  <br> - **ERD 설계**: StarUML, ERD Cloud 활용 |

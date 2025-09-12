@@ -46,7 +46,7 @@
 
 **기간:** 2025.06.09 ~ 2025.07.01 (23일)  
 **팀원:** 5명  
-**기술 스택:** Spring Legacy, MyBatis, Oracle, Kakao Map API, HTML/CSS/JS, STS3
+**기술 스택:** Spring Legacy, STS3, MyBatis, Oracle, Kakao Map API, HTML/CSS/JS
 
 - **담당 역할:** Q&A 게시판 구현, 헬스장 지도 연동, 마이페이지 일부 기능 개발
 - **성과:** 비밀글 처리, 사용자 맞춤형 운동 루틴 제공
@@ -60,7 +60,7 @@
 
 **기간:** 2025.07.28 ~ 2025.09.09 (5주)  
 **팀원:** 5명  
-**기술 스택:** Spring MVC, MyBatis, Oracle, JSP, HTML/CSS/JS, JWT, JavaMail, SweetAlert2
+**기술 스택:** Spring MVC, STS4, MyBatis, Oracle, JSP, HTML/CSS/JS, JWT, JavaMail, SweetAlert2
 
 - **담당 역할:** 기획 및 프론트 총괄, DB 설계, 용돈 이체 및 소비 내역, 가족 초대 기능 개발
 - **성과:** 자동이체 스케줄링, 가족 초대 기능, 소비 내역 통계화 등 자녀 중심 UX 구현, Git을 사용한 소스코드 버전관리 및 협업

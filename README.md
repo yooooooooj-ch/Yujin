@@ -58,9 +58,9 @@
 
 #### ✅ 프로젝트명:  **용하게써 (YongHaeSSeo)(부모와 자녀가 함께 사용하는 용돈관리 플랫폼)**
 
-**기간:** 2025.07.28 ~ 2025.09.09 (5주)
-**팀원:** 5명
-**기술 스택:** Spring MVC, MyBatis, Oracle, JSP, HTML/CSS/JS, JWT, Kakao/Naver OAuth, JavaMail, FCM, SweetAlert2
+**기간:** 2025.07.28 ~ 2025.09.09 (5주)  
+**팀원:** 5명  
+**기술 스택:** Spring MVC, MyBatis, Oracle, JSP, HTML/CSS/JS, JWT, JavaMail, SweetAlert2
 
 - **담당 역할:** 기획 및 프론트 총괄, DB 설계, 용돈 이체 및 소비 내역, 가족 초대 기능 개발
 - **성과:** 자동이체 스케줄링, 가족 초대 기능, 소비 내역 통계화 등 자녀 중심 UX 구현, Git을 사용한 소스코드 버전관리 및 협업

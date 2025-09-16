@@ -29,7 +29,7 @@
 
 **기간:** 2024.04.14 ~ 2024.04.28 (15일)  
 **팀원:** 5명  
-**기술 스택:** Java, Oracle DB, Java Swing, JDBC, SHA-256, draw.io, Figma
+**기술 스택:** Java, Oracle DB, Java Swing, JDBC, SHA-256, draw.io, Figma  
 **기획 의도:** 맛집 예약의 불편함을 해소하기 위한 사용자-사업자 간 예약 플랫폼 구축
 
 - **담당 역할:** 프로젝트 총괄, 관리자 페이지 개발, DB 설계
@@ -44,7 +44,7 @@
 
 **기간:** 2025.06.09 ~ 2025.07.01 (23일)  
 **팀원:** 5명  
-**기술 스택:** Spring Legacy, STS3, MyBatis, Oracle, Kakao Map API, HTML/CSS/JS
+**기술 스택:** Spring Legacy, STS3, MyBatis, Oracle, Kakao Map API, HTML/CSS/JS  
 **기획 의도:** 초보자도 쉽게 접근할 수 있도록 루틴 추천 + 헬스장 정보 통합 제공
 
 - **담당 역할:** Q&A 게시판 구현, 헬스장 지도 연동, 마이페이지 일부 기능 개발
@@ -61,7 +61,7 @@
 
 **기간:** 2025.07.28 ~ 2025.09.09 (44일)  
 **팀원:** 5명  
-**기술 스택:** Spring MVC, STS4, MyBatis, Oracle, JSP, HTML/CSS/JS, JWT, JavaMail, SweetAlert2
+**기술 스택:** Spring MVC, STS4, MyBatis, Oracle, JSP, HTML/CSS/JS, JWT, JavaMail, SweetAlert2  
 **기획 의도:** 자녀가 주체적으로 소비/저축을 관리하고, 부모는 실시간으로 확인할 수 있는 가정 맞춤형 금융 교육 플랫폼
 
 - **담당 역할:** 기획 및 프론트 총괄, DB 설계, 용돈 이체 및 소비 내역, 가족 초대 기능 개발

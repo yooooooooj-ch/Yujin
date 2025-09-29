@@ -59,18 +59,20 @@
 
 ### 💼 3. Project Experience
 
-#### ✅ 프로젝트명: **내일 뭐 먹지?(음식점 예약 시스템)**
+#### ✅ 프로젝트명:  **용하게써 (부모와 자녀가 함께 사용하는 용돈관리 플랫폼)**
 
-**기간:** 2024.04.14 ~ 2024.04.28 (15일)  
+**기간:** 2025.07.28 ~ 2025.09.09 (44일)  
 **팀원:** 5명  
-**기술 스택:** Java, Oracle DB, Java Swing, JDBC, SHA-256, draw.io, Figma  
-**기획 의도:** 맛집 예약의 불편함을 해소하기 위한 사용자-사업자 간 예약 플랫폼 구축
+**기술 스택:** Spring MVC, STS4, MyBatis, Oracle, JSP, HTML/CSS/JS, JWT, JavaMail, SweetAlert2  
+**기획 의도:** 자녀가 주체적으로 소비/저축을 관리하고, 부모는 실시간으로 확인할 수 있는 가정 맞춤형 금융 교육 플랫폼
 
-- **담당 역할:** 프로젝트 총괄, 관리자 페이지 개발, DB 설계
-- **성과:**
-  - SHA-256 기반 비밀번호 암호화
-  - 타이머를 활용한 실시간 예약 승인/거절 기능
-- **GitHub:** [https://github.com/yooooooooj-ch/Naeil.git](https://github.com/yooooooooj-ch/Naeil.git)
+- **담당 역할:** 기획 및 프론트 총괄, DB 설계, 용돈 이체 및 소비 내역, 가족 초대 기능 개발
+- **성과:** 
+  - 실계좌를 흉내낸 구조로 계좌 등록 및 이체 기능 
+  - JWT 토큰 기반 가족 초대 기능
+  - Git을 처음 도입하여 팀장으로써 팀원들에게 Git 사용법을 교육하고 브랜치 전략을 운영함
+  - 스케줄러와 트랜잭션, 멀티스레드 등 스프링 기본 기능 적극 활용
+- **GitHub:** [https://github.com/yooooooooj-ch/Yonghagesseo.git](https://github.com/yooooooooj-ch/Yonghagesseo.git)
 
 ---
 
@@ -91,20 +93,18 @@
 
 ---
 
-#### ✅ 프로젝트명:  **용하게써 (부모와 자녀가 함께 사용하는 용돈관리 플랫폼)**
+#### ✅ 프로젝트명: **내일 뭐 먹지?(음식점 예약 시스템)**
 
-**기간:** 2025.07.28 ~ 2025.09.09 (44일)  
+**기간:** 2024.04.14 ~ 2024.04.28 (15일)  
 **팀원:** 5명  
-**기술 스택:** Spring MVC, STS4, MyBatis, Oracle, JSP, HTML/CSS/JS, JWT, JavaMail, SweetAlert2  
-**기획 의도:** 자녀가 주체적으로 소비/저축을 관리하고, 부모는 실시간으로 확인할 수 있는 가정 맞춤형 금융 교육 플랫폼
+**기술 스택:** Java, Oracle DB, Java Swing, JDBC, SHA-256, draw.io, Figma  
+**기획 의도:** 맛집 예약의 불편함을 해소하기 위한 사용자-사업자 간 예약 플랫폼 구축
 
-- **담당 역할:** 기획 및 프론트 총괄, DB 설계, 용돈 이체 및 소비 내역, 가족 초대 기능 개발
-- **성과:** 
-  - 실계좌를 흉내낸 구조로 계좌 등록 및 이체 기능 
-  - JWT 토큰 기반 가족 초대 기능
-  - Git을 처음 도입하여 팀장으로써 팀원들에게 Git 사용법을 교육하고 브랜치 전략을 운영함
-  - 스케줄러와 트랜잭션, 멀티스레드 등 스프링 기본 기능 적극 활용
-- **GitHub:** [https://github.com/yooooooooj-ch/Yonghagesseo.git](https://github.com/yooooooooj-ch/Yonghagesseo.git)
+- **담당 역할:** 프로젝트 총괄, 관리자 페이지 개발, DB 설계
+- **성과:**
+  - SHA-256 기반 비밀번호 암호화
+  - 타이머를 활용한 실시간 예약 승인/거절 기능
+- **GitHub:** [https://github.com/yooooooooj-ch/Naeil.git](https://github.com/yooooooooj-ch/Naeil.git)
 
 ---
 

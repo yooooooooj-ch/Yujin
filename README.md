@@ -18,7 +18,7 @@
 1. [About Me](#-about-me)
 3. [Work Experience](#-work-experience)
 4. [Project Experience](#-project-experience)
-5. [Skills](#-skills)
+5. [Skills](#%EF%B8%8F-skills)
 6. [Education & Certificates](#-education--certificates)
 7. [Activities](#-activities)
 8. [Other Experiences](#-other-experiences)

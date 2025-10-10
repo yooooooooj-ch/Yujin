@@ -1,3 +1,13 @@
+## 📑 Table of Contents
+1. [About Me](#-about-me)
+2. [Work Experience](#-work-experience)
+3. [Project Experience](#-project-experience)
+4. [Skills](#%EF%B8%8F-skills)
+5. [Education & Certificates](#-education--certificates)
+6. [Other Experiences](#-other-experiences)
+
+---
+
 # 👤 About Me
 
 사용자 중심의 문제 해결을 추구하는 **웹·앱 개발자 최유진**입니다.  
@@ -11,16 +21,6 @@
 ![Android](https://img.shields.io/badge/Android(Kotlin)-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge&logo=postman&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
----
-
-## 📑 Table of Contents
-1. [About Me](#-about-me)
-2. [Work Experience](#-work-experience)
-3. [Project Experience](#-project-experience)
-4. [Skills](#%EF%B8%8F-skills)
-5. [Education & Certificates](#-education--certificates)
-6. [Other Experiences](#-other-experiences)
 
 ---
 

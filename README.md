@@ -112,13 +112,13 @@
 
 ### 🎓 학력
 - **서울과학기술대학교 컴퓨터공학과** (2016.03 ~ 2016.11)  
-  GPA 3.5 / 4.5
+  - GPA 3.5 / 4.5
   - **졸업프로젝트(캡스톤디자인): 1인 가구를 위한 Smart Home**  
     - IoT 기반 원격 제어 및 실시간 보안 시스템 구현  
     - **기술 스택:** Arduino, Raspberry Pi, Node.js, Express, C++, HTML/JS, PYTHON    
     - 원격 기기 제어, 실시간 카메라 및 보안모드 구현  
     - 웹페이지를 통한 원격 제어 및 실시간 모니터링 시스템 완성
-    - [졸업책자](https://drive.google.com/file/d/0B7kEC6nCP9iqSHBUcWtXQWJEWDg/view?usp=drive_link&resourcekey=0-fSBnMqEpWsp9WP2uxKmbhA)
+    - [최종보고서](https://drive.google.com/file/d/0B7kEC6nCP9iqSHBUcWtXQWJEWDg/view?usp=drive_link&resourcekey=0-fSBnMqEpWsp9WP2uxKmbhA)
 
 ### 🏫 교육 이수
 - **KG에듀원 핀테크 풀스택 개발자 양성과정 (2025.03 ~ 2025.09, 968h)**  

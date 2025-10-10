@@ -16,12 +16,11 @@
 
 ## 📑 Table of Contents
 1. [About Me](#-about-me)
-3. [Work Experience](#-work-experience)
-4. [Project Experience](#-project-experience)
-5. [Skills](#%EF%B8%8F-skills)
-6. [Education & Certificates](#-education--certificates)
-7. [Activities](#-activities)
-8. [Other Experiences](#-other-experiences)
+2. [Work Experience](#-work-experience)
+3. [Project Experience](#-project-experience)
+4. [Skills](#%EF%B8%8F-skills)
+5. [Education & Certificates](#-education--certificates)
+6. [Other Experiences](#-other-experiences)
 
 ---
 
@@ -100,7 +99,7 @@
 | **웹 백엔드 & 서버 개발** | - **Spring / Spring Boot**: REST API 설계 및 구현, MyBatis 연동, Thymeleaf 기반 MVC 패턴 적용  <br> - **JSP/Servlet**: 세션 관리, 로그인·회원가입 기능 구현 경험  <br> - **MyBatis**: DAO 매퍼 설계, 동적 SQL, 다중 조인 처리  <br> - **REST API**: JSON 기반 데이터 송수신 및 클라이언트-서버 간 통신 구조 설계  <br> - **Node.js**: JavaScript 런타임 환경, 비동기 서버 통신 실습 경험 |
 | **프론트엔드 개발**   | - **HTML5 / CSS3**: 시맨틱 마크업, 반응형 레이아웃, 커스텀 스타일링  <br> - **JavaScript / jQuery / Ajax**: DOM 조작, 비동기 통신, 사용자 이벤트 처리  <br> - **Thymeleaf**: 서버사이드 렌더링, 동적 데이터 바인딩  <br> - **Chart.js**: 소비·저축 데이터 시각화, 관리자 통계 대시보드 구현  <br> - **WebSocket**: 실시간 데이터 갱신 실습 |
 | **데이터베이스**      | - **Oracle**: 사용자·가계부·거래 내역 DB 구축, 시퀀스/트리거 설계, 다중 테이블 조인  <br> - **MySQL**: 학원 프로젝트에서 서비스 DB 설계 및 운영  <br> - **JDBC**: Java 애플리케이션과 DB 연동, Connection Pool 활용  <br> - **SQL Developer**: DB 모델링 및 쿼리 실행 환경 활용  <br> - **PL/SQL**: 저장 프로시저, 사용자 정의 함수, 트리거 작성  <br> - **ERD 설계**: StarUML, ERD Cloud 활용 |
-| **앱 개발 (Android)** | - **Android Studio**: 네이티브 앱 개발, Gradle 기반 빌드 환경 경험  <br> - **Room DB**: 로컬 데이터 저장, SQLite 활용  <br> - **WebView**: 네이티브와 웹 간 데이터 교환 처리  <br> - **Camera API / QR 코드**: Micro QR 인식률 개선, 줌 기능 적용으로 성능 최적화  <br> - **Firebase Cloud Messaging (FCM)**: 실시간 푸시 알림 서비스  <br> - **Firebase Crashlytics**: 앱 크래시 분석 및 오류 모니터링, 버그 추적 관리 |
+| **앱 개발 (Android)** | - **Android Studio**: 네이티브 앱 개발, Gradle 기반 빌드 환경 경험  <br> - **Room DB**: 로컬 데이터 저장, SQLite 활용  <br> - **WebView**: 네이티브와 웹 간 데이터 교환 처리  <br> - **Camera API / QR 코드**: Micro QR 인식률 개선, 줌 기능 적용으로 성능 최적화 |
 | **DevOps & 서버 관리** | - **Linux (Ubuntu, CentOS)**: 서버 환경 세팅, 배포 자동화 기본  <br> - **Shell Script**: 환경설정 및 배치 스크립트 작성  <br> - **Git/GitHub**: 브랜치 전략 기반 협업, 충돌 해결, Pull Request 리뷰 경험  <br> - **Gradle/Maven**: 프로젝트 빌드 및 의존성 관리  <br> - **Postman**: REST API 테스트 및 디버깅 |
 | **협업 도구 & 프로젝트 관리** | - **Git/GitHub**: 버전 관리 및 팀 협업 (branch/rebase/merge 전략)  <br> - **Figma**: UI/UX 디자인 시안 제작 및 협업  <br> - **ERD Cloud / StarUML**: DB 설계 및 문서화  <br> - **간트차트**: 프로젝트 일정 관리 및 분배 |
 | **API 및 외부 연동**  | - **Kakao Map API**: 위치 기반 서비스 구현  <br> - **Daum 주소검색 API**: 사용자 주소 입력 기능 구현  <br> - **OAuth2 (Naver/Kakao)**: 소셜 로그인 기능 구현  <br> - **PortOne(구 아임포트) 결제 API**: 구독 관리 및 결제 기능 연동  <br> - **Baidu Push**: 중국 로컬 마켓용 푸시 알림 대응  <br> - **Firebase (FCM·Crashlytics)**: 푸시 알림, 오류 모니터링 및 버그 추적 관리  <br> - **OCR (Tesseract)**: 영수증 스캔 기반 소비 내역 등록 |
@@ -112,8 +111,14 @@
 # 📚 Education & Certificates
 
 ### 🎓 학력
-- **서울과학기술대학교 컴퓨터공학과** (2013.03 ~ 2017.08)  
-  GPA 3.5 / 4.5  
+- **서울과학기술대학교 컴퓨터공학과** (2016.03 ~ 2016.11)  
+  GPA 3.5 / 4.5
+  - **졸업프로젝트(캡스톤디자인): 1인 가구를 위한 Smart Home**  
+    - IoT 기반 원격 제어 및 실시간 보안 시스템 구현  
+    - **기술 스택:** Arduino, Raspberry Pi, Node.js, Express, C++, HTML/JS, PYTHON    
+    - 원격 기기 제어, 실시간 카메라 및 보안모드 구현  
+    - 웹페이지를 통한 원격 제어 및 실시간 모니터링 시스템 완성
+    - [졸업책자](https://drive.google.com/file/d/0B7kEC6nCP9iqSHBUcWtXQWJEWDg/view?usp=drive_link&resourcekey=0-fSBnMqEpWsp9WP2uxKmbhA)
 
 ### 🏫 교육 이수
 - **KG에듀원 핀테크 풀스택 개발자 양성과정 (2025.03 ~ 2025.09, 968h)**  
@@ -130,11 +135,7 @@
 - KG에듀원 우수인재 추천서 (2025.09)  
 - KG에듀원 프로젝트 우수상 (2025.09)
 
----
-
-# 🏫 Activities
-
-## ✅ 학술 동아리 WMC (2014.03 ~ 2017.08)
+### 💻 학술 동아리 WMC (2014.03 ~ 2017.08)
 - **안드로이드 스터디 리더:** 커리큘럼 기획 및 실습 주도  
 - **서울시 앱 공모전 팀장:** 기획·개발·테스트 총괄, 협업 역량 강화
 
